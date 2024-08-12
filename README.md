@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Piyush Singh</h1>
+<h1 align="center">Hi 👋, I'm Bhupendra Singh</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 
-- 🔭 I’m currently working on **Vmware**
+- 🔭 I’m currently working on **AWS AND VMware**
 
-- 🌱 I’m currently learning **DevOps and OpenNebula**
+- 🌱 I’m currently learning **DevSecops and terafrom**
 
 - 💬 Ask me about **AWS,Vmware,EXSI Server**
 
