@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhupendra Singh</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 
-- 🔭 I’m currently working on **AWS AND VMware**
+- 🔭 I’m currently working on **AWS , Meghraj and Azure**
 
 - 🌱 I’m currently learning **DevSecops and terafrom**
 
-- 💬 Ask me about **AWS,Vmware,EXSI Server**
+- 💬 Ask me about **AWS,Vmware,EXSI Server,Docker,k8,monitoring,Monogo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
